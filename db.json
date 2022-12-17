@@ -1,0 +1,37 @@
+
+{
+  
+    "products": [
+        {
+          "name": "Binod Kumar Lal",
+          "age": "90",
+          "status": true,
+          "id": "bKwbEke"
+        },
+        {
+          "name": "Kumar ",
+          "age": "99",
+          "status": true,
+          "id": "uAt8zST"
+        },
+        {
+          "name": "Kumar ",
+          "age": "99",
+          "status": true,
+          "id": "GEYCqC6"
+        },
+        {
+          "name": "jyoti kumari",
+          "age": "56",
+          "status": true,
+          "id": "tfqLX2s"
+        }
+      ],
+      "product": [
+        
+      ]
+      
+      
+    
+}
+
